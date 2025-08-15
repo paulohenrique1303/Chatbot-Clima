@@ -102,8 +102,6 @@ logs/
 *.csv
 *.xlsx
 *.json
-data/raw/
-data/processed/
 
 # Model files
 *.pkl
