@@ -1,0 +1,18 @@
+# Núcleo de ciência de dados
+pandas==2.2.2
+numpy==1.26.4
+scikit-learn==1.5.1
+requests==2.32.3
+
+# Visualização e App
+plotly==5.22.0
+streamlit==1.36.0
+matplotlib==3.9.0
+
+# Modelagem de séries temporais (fallback caso Prophet não esteja disponível)
+statsmodels==0.14.2
+
+# Opcional para NLP (usaremos um resumo baseado em regras por padrão)
+# transformers==4.42.0
+
+# Para compatibilidade com Windows: evitar libs pesadas por padrão
